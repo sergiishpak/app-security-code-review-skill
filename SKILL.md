@@ -1,9 +1,9 @@
 ---
-name: appsec-code-review
+name: app-security-code-review-skill
 description: Use when asked to review web frontend, backend, API, or iOS or Android application code against OWASP guidance, or to prepare GitHub issues from that review.
 ---
 
-# Application security code review
+# App Security Code Review Skill
 
 Review the requested code and report in chat. Treat this as a defensive, read-only review.
 

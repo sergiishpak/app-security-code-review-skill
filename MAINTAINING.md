@@ -13,6 +13,6 @@ Keep the repository link-based. If a future contribution proposes redistributing
 
 ## First public release
 
-1. Verify that the files in the initial commit contain only the public skill and repository documentation. Follow the [installation instructions](README.md#install) from a clean copy and confirm that Codex lists `appsec-code-review`.
+1. Verify that the files in the initial commit contain only the public skill and repository documentation. Follow the [installation instructions](README.md#install) from a clean copy and confirm that Codex lists `app-security-code-review-skill`.
 2. Use the first sentence of the [README](README.md) as the GitHub repository description.
 3. On the public GitHub repository, enable private vulnerability reporting and verify that a user without repository write access can open the form described in [SECURITY.md](SECURITY.md). Do this before announcing the release. [GitHub setup instructions](https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/configure-vulnerability-reporting/configure-for-a-repository)
